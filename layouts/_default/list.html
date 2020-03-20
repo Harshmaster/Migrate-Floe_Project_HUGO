@@ -116,7 +116,7 @@
                             <a href={{.Title}}>
                                 <p>{{.Title}}</p>
                             </a>
-                            <time class="floe-date" datetime="2019-10-23">October 23, 2019</time>
+                            <time class="floe-date" >{{ dateFormat "Monday, Jan 2, 2006" .Date }}</time>
                         </li>
                         {{ end }}
                     </ul>
