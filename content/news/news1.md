@@ -9,6 +9,7 @@ This is just a protyped version of the final product. Much more work needs to do
 - Improving the User Interface.
 - Documentation for Updating, using , and further maintainence of this site.
 - Updating the posts with images with caption via markdown files.
+- Optimization of site to reduce load-Time.
 
 I therefore request you to please consider my proposal for GSOC 2020.
 Harsh Pal Singh
